@@ -4,7 +4,7 @@ This project was done as an colaboration with 3 more contributers.(IC project)
 
 ## Some important Info:
 
-1. This project requires SDL / SDL2 libraries. So it is advisable to run this project on Visual Studio instaed of Visual Studio Code.
+1. This project requires SDL / SDL2 libraries. So it is advisable to run this project on Visual Studio instead of Visual Studio Code.
 2. Integrate the SDL library to the paths with the help of the tutorial video linked below.
 3. Now you are all set to play!
 
