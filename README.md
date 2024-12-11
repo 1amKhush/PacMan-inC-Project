@@ -6,7 +6,9 @@ This project was done as an colaboration with 3 more contributers.(IC project)
 
 1. This project requires SDL / SDL2 libraries. So it is advisable to run this project on Visual Studio instead of Visual Studio Code.
 2. Integrate the SDL library to the paths with the help of the tutorial video linked below.
-3. Now you are all set to play!
+3. the game will only start when you enter your player name in the terminal prompt. Then move to the game window.
+4. The score will be diplayed in teh score.txt file.
+5. Now you are all set to play!
 
 ## Links
 
